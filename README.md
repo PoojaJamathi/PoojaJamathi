@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PoojaJamathi
+- 👋 Hi, I’m @Pooja
 - 👀 I’m interested in any junior level jobs in data science or software engineer
 - 🌱 I’m currently learning Machine Learning, Video Analytics and i have experience in python, Java, C, C++, AWS, Google cloud, Microsoft Azure, etc
 - 📫 How to reach me using my Email:- poojajcgowda@gmail.com or Phone:- 07424371696
