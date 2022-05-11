@@ -4,6 +4,6 @@
 - 📫 How to reach me using my Email:- poojajcgowda@gmail.com or Phone:- 07424371696
 
 <!---
-PoojaJamathi/PoojaJamathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pooja/Pooja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
